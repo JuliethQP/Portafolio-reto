@@ -1,0 +1,38 @@
+.nombre{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+#firstcolum{
+  
+}
+#secondcolumn
+{
+   
+}
+.imagen{
+    align-items: right;
+}
+h1{
+    text-align: center;
+}
+.form-group{
+    color: white;
+}
+.icon-list-item
+{
+    list-style: none;
+}
+#texto-conoce-sobre-mi{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.nav-link{
+    font-size: 20px;
+}
+.list-group {
+    list-style: none;
+}
+#texto-conoce-sobre-mi{
+  text-align: justify;
+}
