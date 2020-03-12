@@ -1,3 +1,10 @@
+@media (max-width:360px){
+    #texto-conoce-sobre-mi{
+        text-align: center !important;
+        font-family: 'Roboto Mono', monospace;
+        font-family: 'Poppins', sans-serif;
+      }
+}
 .nombre{
     font-family: 'Roboto Mono', monospace;
     font-family: 'Poppins', sans-serif;
@@ -19,7 +26,7 @@ h1{
 #texto-conoce-sobre-mi{
     font-size: 25px;
     display: flex;
-    justify-content: center;
+    justify-content: justify;
 }
 .nav-link{
     font-size: 20px;
@@ -30,6 +37,7 @@ h1{
 .list-group {
     list-style: none;
 }
+
 #texto-conoce-sobre-mi{
   text-align: justify;
   font-family: 'Roboto Mono', monospace;
